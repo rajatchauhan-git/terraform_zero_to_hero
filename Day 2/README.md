@@ -1,0 +1,1 @@
+![Understanding HCL Syntax in Terraform: A Comprehensive Guide](https://cdn.hashnode.com/res/hashnode/image/upload/v1724273876682/6dda0983-c643-4504-8297-545c797e8c38.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)
