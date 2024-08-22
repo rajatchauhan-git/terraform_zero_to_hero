@@ -1,0 +1,1 @@
+![Mastering Terraform with AWS EC2](https://cdn.hashnode.com/res/hashnode/image/upload/v1724363220728/d0f9544e-b597-4a3d-a5c4-683d2769a2a1.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)
