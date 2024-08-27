@@ -1,0 +1,1 @@
+![Exploring Terraform Providers: Configuration, Authentication, and Practical Application](https://cdn.hashnode.com/res/hashnode/image/upload/v1724731854955/5ea912f4-b929-4145-8004-17cb3932b94f.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)
